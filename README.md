@@ -26,7 +26,7 @@ http://localhost:8080
     "username": "Admin",
     "password": "admin123",
     "role": "admin"
-  }```
+  }
 
 
  ### 2. Login
@@ -38,7 +38,7 @@ http://localhost:8080
   {
     "username": "Admin",
     "password": "admin123",
-  }```
+  }
 
 
 ## Admin Endpoints
