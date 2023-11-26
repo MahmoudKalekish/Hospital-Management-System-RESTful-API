@@ -14,6 +14,16 @@ http://localhost:8080
 2. Open Postman.
 
 
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MahmoudKalekish/Hospital-Management-System-RESTful-API.git
+   npm install
+
+
 ## User Registration and Login
 
 ### 1. Register a User
